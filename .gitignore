@@ -1,0 +1,6 @@
+.env
+finished/*
+temporary/*
+!finished/.gitKeep
+!temporary/.gitKeep
+__pycache__/*
